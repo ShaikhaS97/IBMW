@@ -1,6 +1,6 @@
 # IBM Watson Chatbot
 
-Note: you can try the chatbot  http://shaikha.ueuo.com/ 
+Note: you can try the chatbot using the following link  http://shaikha.ueuo.com/ 
 
 
 ![](myres.gif)
